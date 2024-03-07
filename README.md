@@ -9,12 +9,13 @@ The Arduino Solar Tracker is designed to optimize solar energy absorption by aut
 
 ## Features
 - **Automatic Tracking Mode:** Adjusts the tracker's position based on LDR readings to maximize sunlight exposure.
-- **Manual Control Mode:** Allows for manual adjustment of the tracker's position through serial commands.
+- **Manual Control Mode:** Allows for manual adjustment of the tracker's position through serial commands via bluetooth.
 
 ## Hardware Requirements
 - Arduino board
 - 2 Servo Motors
 - 4 LDRs (Light Dependent Resistors)
+- Bluetooth module
 - Solar Panel
 - Push Button
 - LED
