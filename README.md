@@ -1,1 +1,1 @@
-# Arduino_Solar_Tracker
+# Arduino Solar Tracker
