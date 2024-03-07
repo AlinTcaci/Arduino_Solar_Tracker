@@ -3,6 +3,10 @@
 ## Project Overview
 The Arduino Solar Tracker is designed to optimize solar energy absorption by automatically adjusting its position to follow the sun's path across the sky. Utilizing Light Dependent Resistors (LDRs) and servo motors, the system can also be manually controlled via serial commands from a phone for precise positioning.
 
+## Team
+- [AlinTcaci](https://github.com/AlinTcaci)
+- [Radu-Maris](https://github.com/Radu-Maris)
+
 ## Features
 - **Automatic Tracking Mode:** Adjusts the tracker's position based on LDR readings to maximize sunlight exposure.
 - **Manual Control Mode:** Allows for manual adjustment of the tracker's position through serial commands.
