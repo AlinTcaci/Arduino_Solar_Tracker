@@ -5,7 +5,7 @@ The Arduino Solar Tracker is designed to optimize solar energy absorption by aut
 
 ## Team
 - [AlinTcaci](https://github.com/AlinTcaci)
-- [Radu-Maris](https://github.com/Radu-Maris)
+- [Radu Maris](https://github.com/Radu-Maris)
 
 ## Features
 - **Automatic Tracking Mode:** Adjusts the tracker's position based on LDR readings to maximize sunlight exposure.
